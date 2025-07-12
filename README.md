@@ -6,3 +6,12 @@ This project is a simple recursion project that uses recursion to solve the fibb
 
 - Can call the fibbonaci sequence both iteratively and recursively.
 - Can sort an array using merge sort.
+
+## Instructions
+
+You need to have node installed to run the files.
+
+- type "node fibbonaci.js" in the console to run the fibbonaci file
+- type "node mergeSort.js" in the console to run the mergeSort file
+
+If you want to you can also modify the file to add in a custom test case
